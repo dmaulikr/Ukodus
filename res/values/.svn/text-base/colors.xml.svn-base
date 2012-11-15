@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="puzzle_background">#ff1A1A1A</color>
+<color name="puzzle_hilite">#64909090</color>
+<color name="puzzle_light">#64c6d4ef</color>
+<color name="puzzle_dark">#64BFBFBF</color>
+<color name="puzzle_foreground">#ff000000</color>
+<color name="puzzle_hint_0">#64ff0000</color>
+<color name="puzzle_hint_1">#6400ff80</color>
+<color name="puzzle_hint_2">#2000ff80</color>
+<color name="puzzle_selected">#64ff8000</color>
+<color name="grid_background">#FFFFFFFF</color>
+<color name="keypad_background">#00000000</color>
+<color name="keypad_light">#FFDDDDDD</color>
+<color name="keypad_hilite">#FFDFDFDF</color>
+<color name="keypad_text">#FFFFFFFF</color>
+</resources>

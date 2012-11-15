@@ -1,0 +1,52 @@
+10
+
+dir
+80
+https://svn.soic.indiana.edu/a290gos/jischnit/res
+https://svn.soic.indiana.edu/a290gos
+
+
+
+2011-03-08T03:05:33.199809Z
+77
+jischnit
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+236517a5-3d4a-41be-b2d5-e8ee40569fd6
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+layout-land
+dir
+
+menu
+dir
+
+values
+dir
+
+xml
+dir
+

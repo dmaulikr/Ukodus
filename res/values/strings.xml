@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Ukodus</string>
+<string name="main_title">Ukodus</string>
+
+<string name="continue_label">Continue</string>
+<string name="new_game_label">New Game</string>
+<string name="about_label">About</string>
+<string name="exit_label">Exit</string>
+<string name="about_title">About Ukodus</string>
+<string name="about_text">Ukodus is a 3D sudoku game</string>
+
+<string name="setting_label">Settings...</string>
+<string name="settings_title">Ukodus settings</string>
+<string name="settings_shortcut">s</string>
+<string name="music_title">Music</string>
+<string name="music_summary">Play background music</string>
+
+<string name="new_game_title">Difficulty</string>
+<string name="lv_1_lab">Level 1</string>
+<string name="lv_2_lab">Level 2</string>
+<string name="lv_3_lab">Level 3</string>
+<string name="lv_4_lab">Level 4</string>
+<string name="lv_5_lab">Level 5</string>
+
+<string name="game_title">Game</string>
+<string name="no_moves_label">No Moves</string>
+<string name="keypad_title">Keypad</string>
+
+</resources>

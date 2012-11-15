@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="difficulty">
+		<item>@string/lv_1_lab</item>
+		<item>@string/lv_2_lab</item>
+		<item>@string/lv_3_lab</item>
+		<item>@string/lv_4_lab</item>
+		<item>@string/lv_5_lab</item>
+	</array>
+	<string-array name="N_entries">
+		<item name="1">1</item>
+		<item name="2">2</item>
+		<item name="3">3</item>
+		<item name="4">4</item>
+		<item name="5">5</item>
+		<item name="6">6</item>
+		<item name="7">7</item>
+		<item name="8">8</item>
+		<item name="9">9</item>
+	</string-array>
+	<string-array name="N_entryValues">
+		<item name="1">1</item>
+		<item name="2">2</item>
+		<item name="3">3</item>
+		<item name="4">4</item>
+		<item name="5">5</item>
+		<item name="6">6</item>
+		<item name="7">7</item>
+		<item name="8">8</item>
+		<item name="9">9</item>
+	</string-array>
+	
+	<string-array name="symbol_entries">
+		<item name="Numbers">Numbers</item>
+		<item name="Greek">Greek</item>
+		<item name="Hebrew">Hebrew</item>
+		<item name="Roman">Roman Numerals</item>
+		<item name="symbls">Symbols</item>
+	</string-array>
+	<string-array name="symbol_entryValues">
+		<item name="Numbers">0</item>
+		<item name="Greek">1</item>
+		<item name="Hebrew">2</item>
+		<item name="Roman">3</item>
+		<item name="symbls">4</item>
+	</string-array>
+</resources>
